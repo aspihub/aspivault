@@ -2,7 +2,7 @@
   
   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/shield-halved.svg" alt="Logo" width="80" height="80">
 
-# AspiVault: Password Manager 🛡️
+# AspiVault: Password Manager
 
   *A lightweight, fully local, and lightning-fast password manager built for the browser.*
 
@@ -10,7 +10,7 @@
   [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
   [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
   
-  **[Live Demo](https://aspivault.vercel.app)** • **[Report Bug](#)** • **[Request Feature](#)**
+  **[Live Demo](https://aspivault.vercel.app)**
 
 </div>
 
